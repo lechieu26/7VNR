@@ -1,0 +1,17 @@
+may_dau_tap.png
+size:628,628
+filter:Linear,Linear
+pma:true
+bang_so
+bounds:342,490,283,135
+chan_may
+bounds:2,16,391,104
+chan_may1
+bounds:297,151,319,125
+than_may
+bounds:2,278,338,347
+u_may_phai
+bounds:342,283,154,205
+u_may_trai
+bounds:2,122,154,293
+rotate:90

@@ -1,0 +1,331 @@
+{
+    "skillTemplates": [
+        {
+            "id": 1,
+            "name": "Chiêu đấm",
+            "description": "Đòn đánh cơ bản, gây %d sát thương cho mục tiêu",
+            "icon": "3_1",
+            "maxPoint": 10,
+            "skills": [
+                {
+                    "skillId": 1,
+                    "level": 1,
+                    "damage": 100,
+                    "cooldown": 400,
+                    "maxFight": 1,
+                    "manaCost": 10,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 2,
+                    "level": 2,
+                    "damage": 120,
+                    "cooldown": 380,
+                    "maxFight": 1,
+                    "manaCost": 20,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 3,
+                    "level": 3,
+                    "damage": 140,
+                    "cooldown": 360,
+                    "maxFight": 1,
+                    "manaCost": 30,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 4,
+                    "level": 4,
+                    "damage": 160,
+                    "cooldown": 340,
+                    "maxFight": 1,
+                    "manaCost": 40,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 5,
+                    "level": 5,
+                    "damage": 180,
+                    "cooldown": 320,
+                    "maxFight": 1,
+                    "manaCost": 50,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 6,
+                    "level": 6,
+                    "damage": 200,
+                    "cooldown": 300,
+                    "maxFight": 1,
+                    "manaCost": 60,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 7,
+                    "level": 7,
+                    "damage": 220,
+                    "cooldown": 280,
+                    "maxFight": 1,
+                    "manaCost": 70,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 8,
+                    "level": 8,
+                    "damage": 240,
+                    "cooldown": 260,
+                    "maxFight": 1,
+                    "manaCost": 80,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 9,
+                    "level": 9,
+                    "damage": 260,
+                    "cooldown": 240,
+                    "maxFight": 1,
+                    "manaCost": 90,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 10,
+                    "level": 10,
+                    "damage": 300,
+                    "cooldown": 200,
+                    "maxFight": 1,
+                    "manaCost": 100,
+                    "dx": 20,
+                    "dy": 20
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "KI Blast",
+            "description": "Trưởng lực tấn công gây %d sát thương cho mục tiêu",
+            "icon": "3_2",
+            "maxPoint": 10,
+            "skills": [
+                {
+                    "skillId": 11,
+                    "level": 1,
+                    "damage": 270,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 100,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 12,
+                    "level": 2,
+                    "damage": 120,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 105,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 13,
+                    "level": 3,
+                    "damage": 140,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 110,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 14,
+                    "level": 4,
+                    "damage": 160,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 120,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 15,
+                    "level": 5,
+                    "damage": 180,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 130,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 16,
+                    "level": 6,
+                    "damage": 200,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 140,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 17,
+                    "level": 7,
+                    "damage": 220,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 150,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 18,
+                    "level": 8,
+                    "damage": 240,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 160,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 19,
+                    "level": 9,
+                    "damage": 260,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 170,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 20,
+                    "level": 10,
+                    "damage": 300,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 180,
+                    "dx": 20,
+                    "dy": 20
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "KI Blast",
+            "description": "Trưởng lực tấn công gây %d sát thương cho mục tiêu",
+            "icon": "spell10",
+            "maxPoint": 10,
+            "skills": [
+                {
+                    "skillId": 21,
+                    "level": 1,
+                    "damage": 270,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 100,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 22,
+                    "level": 2,
+                    "damage": 120,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 105,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 23,
+                    "level": 3,
+                    "damage": 140,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 110,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 24,
+                    "level": 4,
+                    "damage": 160,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 120,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 25,
+                    "level": 5,
+                    "damage": 180,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 130,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 26,
+                    "level": 6,
+                    "damage": 200,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 140,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 27,
+                    "level": 7,
+                    "damage": 220,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 150,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 28,
+                    "level": 8,
+                    "damage": 240,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 160,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 29,
+                    "level": 9,
+                    "damage": 260,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 170,
+                    "dx": 20,
+                    "dy": 20
+                },
+                {
+                    "skillId": 30,
+                    "level": 10,
+                    "damage": 300,
+                    "cooldown": 5000,
+                    "maxFight": 1,
+                    "manaCost": 180,
+                    "dx": 20,
+                    "dy": 20
+                }
+            ]
+        }
+    ]
+}

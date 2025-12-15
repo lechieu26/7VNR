@@ -1,0 +1,160 @@
+{
+  "enemies": [
+    {
+      "name": "Gigan",
+      "prefabPath": "Prefabs/EnemyPrefabs/Gigan",
+      "hp": 500,
+      "hpMax": 500,
+      "damage": 15,
+      "speed": 10,
+      "detectionRange": 5,
+      "attackRange": 2,
+      "attackCooldown": 1.5,
+      "spawnPoint": { "x": 5, "y": 1 },
+      "respawnTime": 5,
+      "patrolRange": 2,
+      "patrolSpeed": 2,
+      "patrolWaitTime": 2,
+      "animations": {
+        "idle": "idle",
+        "walk": "walk",
+        "attack": "atk",
+        "hit": "hit",
+        "die": "die"
+      }
+    },
+    {
+      "name": "KhiCon",
+      "prefabPath": "Prefabs/EnemyPrefabs/KhiCon",
+      "hp": 100,
+      "hpMax": 500,
+      "damage": 15,
+      "speed": 10,
+      "detectionRange": 5,
+      "attackRange": 2,
+      "attackCooldown": 1.5,
+      "spawnPoint": { "x": 5, "y": 1 },
+      "respawnTime": 5,
+      "patrolRange": 2,
+      "patrolSpeed": 2,
+      "patrolWaitTime": 2,
+      "animations": {
+        "idle": "idle",
+        "walk": "walk",
+        "attack": "atk",
+        "hit": "hit",
+        "die": "die"
+      }
+    },
+    {
+      "name": "KhungLongBay",
+      "prefabPath": "Prefabs/EnemyPrefabs/KhungLongBay",
+      "hp": 100,
+      "hpMax": 500,
+      "damage": 15,
+      "speed": 10,
+      "detectionRange": 5,
+      "attackRange": 2,
+      "attackCooldown": 1.5,
+      "spawnPoint": { "x": 5, "y": 1 },
+      "respawnTime": 5,
+      "patrolRange": 2,
+      "patrolSpeed": 2,
+      "patrolWaitTime": 2,
+      "animations": {
+        "idle": "idle",
+        "walk": "walk",
+        "hit": "hit",
+        "die": "die"
+      }
+    },
+    {
+      "name": "MayDam",
+      "prefabPath": "Prefabs/EnemyPrefabs/MayDam",
+      "hp": 100,
+      "hpMax": 500,
+      "damage": 15,
+      "speed": 10,
+      "detectionRange": 5,
+      "attackRange": 2,
+      "attackCooldown": 1.5,
+      "spawnPoint": { "x": 5, "y": 1 },
+      "respawnTime": 5,
+      "patrolRange": 0,
+      "patrolSpeed": 0,
+      "patrolWaitTime": 2,
+      "animations": {
+        "idle": "idle",
+        "hit": "hit",
+        "die": "die"
+      }
+    },
+    {
+      "name": "OcSen",
+      "prefabPath": "Prefabs/EnemyPrefabs/OcSen",
+      "hp": 100,
+      "hpMax": 500,
+      "damage": 15,
+      "speed": 10,
+      "detectionRange": 5,
+      "attackRange": 2,
+      "attackCooldown": 1.5,
+      "spawnPoint": { "x": 5, "y": 1 },
+      "respawnTime": 5,
+      "patrolRange": 2,
+      "patrolSpeed": 2,
+      "patrolWaitTime": 2,
+      "animations": {
+        "idle": "idle",
+        "walk": "walk",
+        "attack": "atk",
+        "hit": "hit",
+        "die": "die"
+      }
+    },
+    {
+      "name": "Ran",
+      "prefabPath": "Prefabs/EnemyPrefabs/Ran",
+      "hp": 100,
+      "hpMax": 500,
+      "damage": 15,
+      "speed": 10,
+      "detectionRange": 5,
+      "attackRange": 2,
+      "attackCooldown": 1.5,
+      "spawnPoint": { "x": 5, "y": 1 },
+      "respawnTime": 5,
+      "patrolRange": 2,
+      "patrolSpeed": 2,
+      "patrolWaitTime": 2,
+      "animations": {
+        "idle": "idle",
+        "attack": "atk",
+        "hit": "hit",
+        "die": "die"
+      }
+    },
+    {
+      "name": "ThanLanBay",
+      "prefabPath": "Prefabs/EnemyPrefabs/ThanLanBay",
+      "hp": 100,
+      "hpMax": 500,
+      "damage": 15,
+      "speed": 10,
+      "detectionRange": 5,
+      "attackRange": 2,
+      "attackCooldown": 1.5,
+      "spawnPoint": { "x": 5, "y": 1 },
+      "respawnTime": 5,
+      "patrolRange": 2,
+      "patrolSpeed": 2,
+      "patrolWaitTime": 2,
+      "animations": {
+        "idle": "idle",
+        "attack": "atk",
+        "hit": "hit",
+        "die": "die"
+      }
+    }
+  ]
+}

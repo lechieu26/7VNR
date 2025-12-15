@@ -1,0 +1,87 @@
+gigan_con.png
+size:716,270
+filter:Linear,Linear
+pma:true
+scale:0.2
+FX/sparkA/sparkA_00
+bounds:464,24,38,30
+offsets:3,0,43,30
+FX/sparkA/sparkA_01
+bounds:613,25,40,28
+offsets:2,2,43,30
+FX/sparkA/sparkA_02
+bounds:421,28,41,26
+offsets:1,3,43,30
+FX/sparkA/sparkA_03
+bounds:397,29,41,22
+offsets:1,7,43,30
+rotate:90
+FX/sparkB/sparkB_00
+bounds:655,21,32,34
+offsets:1,0,33,34
+rotate:90
+FX/sparkB/sparkB_01
+bounds:504,21,37,37
+offsets:2,0,39,37
+FX/sparkB/sparkB_02
+bounds:580,22,31,36
+FX/sparkB/sparkB_03
+bounds:576,60,34,39
+rotate:90
+FX/sparkC/sparkC_00
+bounds:187,38,108,76
+offsets:26,13,160,120
+rotate:90
+FX/sparkC/sparkC_01
+bounds:633,152,116,81
+offsets:21,13,160,120
+rotate:90
+FX/sparkC/sparkC_02
+bounds:100,6,121,85
+offsets:20,13,160,120
+rotate:90
+FX/sparkC/sparkC_03
+bounds:508,180,123,88
+offsets:18,13,160,120
+FX/sparkC/sparkC_04
+bounds:383,178,123,90
+offsets:18,14,160,120
+FX/sparkC/sparkC_05
+bounds:508,96,123,82
+offsets:18,23,160,120
+FX/sparkC/sparkC_06
+bounds:123,130,16,16
+offsets:52,89,160,120
+ban chan P
+bounds:187,2,86,34
+ban chan T
+bounds:488,60,86,34
+ban tay P
+bounds:423,117,67,59
+ban tay T
+bounds:331,2,68,64
+rotate:90
+canh P
+bounds:2,2,125,96
+rotate:90
+canh T
+bounds:265,76,97,93
+chan P
+bounds:633,55,95,79
+rotate:90
+dau
+bounds:2,129,119,139
+duoi
+bounds:257,171,124,97
+mat
+bounds:543,22,35,36
+tay P
+bounds:275,2,54,72
+tay T
+bounds:423,56,59,63
+rotate:90
+than
+bounds:123,148,132,120
+vai P
+bounds:364,72,97,57
+rotate:90

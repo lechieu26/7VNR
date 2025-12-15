@@ -1,0 +1,98 @@
+khi_con.png
+size:2043,2043
+filter:Linear,Linear
+pma:true
+FX/sparkA/sparkA_00
+bounds:1222,391,188,147
+offsets:17,3,217,152
+FX/sparkA/sparkA_01
+bounds:1789,1906,197,135
+offsets:11,14,217,152
+FX/sparkA/sparkA_02
+bounds:993,1799,202,130
+offsets:8,17,217,152
+FX/sparkA/sparkA_03
+bounds:993,1931,205,110
+offsets:6,36,217,152
+FX/sparkB/sparkB_00
+bounds:993,1634,152,163
+offsets:8,0,163,168
+FX/sparkB/sparkB_01
+bounds:1789,1551,188,183
+offsets:7,2,196,186
+FX/sparkB/sparkB_02
+bounds:1172,540,152,178
+offsets:1,1,153,180
+rotate:90
+FX/sparkB/sparkB_03
+bounds:1789,1736,168,194
+offsets:0,2,168,197
+rotate:90
+FX/sparkC/sparkC_00
+bounds:2,10,497,357
+offsets:151,69,800,600
+rotate:90
+FX/sparkC/sparkC_01
+bounds:1222,2,537,379
+offsets:126,69,800,600
+FX/sparkC/sparkC_02
+bounds:1280,899,561,400
+offsets:121,70,800,600
+rotate:90
+FX/sparkC/sparkC_03
+bounds:1222,1631,565,410
+offsets:118,71,800,600
+FX/sparkC/sparkC_04
+bounds:723,1213,555,416
+offsets:121,80,800,600
+FX/sparkC/sparkC_05
+bounds:1682,694,556,355
+offsets:118,140,800,600
+rotate:90
+FX/sparkC/sparkC_06
+bounds:652,22,22,23
+offsets:290,474,800,600
+ban chan P
+bounds:1280,1462,435,167
+offsets:2,1,438,170
+ban chan T
+bounds:1050,90,437,170
+offsets:1,0,438,170
+rotate:90
+ban tay P
+bounds:1352,599,327,298
+offsets:1,1,329,300
+ban tay T
+bounds:1681,383,309,314
+offsets:1,1,311,316
+rotate:90
+chan P
+bounds:652,47,480,396
+rotate:90
+chan T
+bounds:652,47,480,396
+rotate:90
+dau
+bounds:2,1195,719,846
+offsets:1,1,721,848
+duoi
+bounds:2,509,684,563
+rotate:90
+mat
+bounds:1172,726,171,175
+offsets:1,1,173,177
+rotate:90
+tay P
+bounds:723,1673,268,368
+offsets:2,1,271,370
+tay T
+bounds:1717,1252,297,317
+offsets:1,1,299,319
+rotate:90
+than
+bounds:567,529,664,603
+rotate:90
+vai P
+bounds:361,19,488,289
+offsets:2,2,491,292
+rotate:90
