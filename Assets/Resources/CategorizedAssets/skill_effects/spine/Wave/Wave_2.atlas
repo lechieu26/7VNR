@@ -1,0 +1,12 @@
+Wave.png
+size:700,608
+filter:Linear,Linear
+pma:true
+Wt1
+bounds:492,2,603,203
+offsets:1,0,615,203
+rotate:90
+Wt2
+bounds:2,93,512,488
+offsets:0,4,512,492
+rotate:90

@@ -1,0 +1,31 @@
+Ki_Lv4_Sau.png
+size:1428,1072
+filter:Linear,Linear
+pma:true
+gongbase1
+bounds:2,501,569,581
+offsets:6,7,581,598
+rotate:90
+gongbase2
+bounds:585,508,562,621
+offsets:6,5,574,633
+rotate:90
+gongbase3
+bounds:585,2,504,588
+offsets:6,5,516,602
+rotate:90
+gongbase4
+bounds:2,13,486,551
+offsets:5,8,496,566
+rotate:90
+skill5_cell_e1 copy
+bounds:1208,847,223,218
+offsets:12,15,254,242
+rotate:90
+skill5_cell_e2 copy
+bounds:1175,37,231,224
+offsets:7,17,262,244
+skill5_cell_e3 copy
+bounds:1175,263,243,230
+offsets:7,6,256,241
+rotate:90

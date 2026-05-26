@@ -1,0 +1,22 @@
+Dan2_QuaiDongVat_Violet.png
+size:496,300
+filter:Linear,Linear
+pma:true
+Skill 1_g1
+bounds:261,4,228,95
+offsets:7,4,241,103
+Skill 1_g2
+bounds:260,200,232,95
+offsets:9,5,247,105
+Skill 1_g3
+bounds:2,2,239,94
+offsets:6,5,251,103
+Skill 1_g4
+bounds:2,98,257,92
+offsets:7,4,270,100
+Skill 1_g5
+bounds:2,192,256,103
+offsets:10,4,272,111
+Skill 1_g6
+bounds:261,101,230,97
+offsets:6,5,241,106

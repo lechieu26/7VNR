@@ -1,0 +1,14 @@
+Vanbay_4_export_truoc.png
+size:244,108
+filter:Linear,Linear
+pma:true
+tau_4_1
+bounds:175,12,93,64
+offsets:1,1,94,65
+rotate:90
+tau_4_2
+bounds:107,12,93,66
+rotate:90
+tau_4_3
+bounds:2,2,103,103
+offsets:0,0,104,104

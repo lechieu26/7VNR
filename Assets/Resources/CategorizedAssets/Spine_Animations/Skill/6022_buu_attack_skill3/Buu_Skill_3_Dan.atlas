@@ -1,0 +1,16 @@
+Buu_Skill_3_Dan.png
+size:560,220
+filter:Linear,Linear
+pma:true
+skill_3_bu_e1
+bounds:195,6,211,177
+offsets:4,4,220,185
+rotate:90
+skill_3_bu_e2
+bounds:2,2,215,191
+offsets:4,5,223,200
+rotate:90
+skill_3_bu_e3
+bounds:374,15,202,181
+offsets:4,4,210,189
+rotate:90

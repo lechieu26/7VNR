@@ -1,0 +1,13 @@
+Vanbay_2_export.png
+size:420,108
+filter:Linear,Linear
+pma:true
+tau2
+bounds:2,2,252,101
+offsets:2,2,256,105
+tau2_a
+bounds:256,18,124,85
+offsets:0,3,124,97
+tau2_b
+bounds:382,68,35,35
+offsets:3,3,41,41

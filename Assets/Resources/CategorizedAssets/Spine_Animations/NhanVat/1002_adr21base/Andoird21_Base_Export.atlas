@@ -1,0 +1,86 @@
+Andoird21_Base_Export.png
+size:328,524
+filter:Linear,Linear
+pma:true
+android 21_1
+bounds:199,175,133,126
+rotate:90
+android 21_11
+bounds:2,241,136,116
+android 21_12
+bounds:173,101,57,52
+offsets:1,1,59,54
+rotate:90
+android 21_12b
+bounds:226,44,55,50
+rotate:90
+android 21_13
+bounds:199,310,40,127
+offsets:1,1,42,129
+rotate:90
+android 21_14
+bounds:201,352,123,170
+offsets:0,1,124,172
+android 21_16
+bounds:155,320,42,94
+offsets:1,1,44,96
+android 21_2
+bounds:2,96,94,87
+offsets:0,0,94,88
+android 21_3
+bounds:2,10,40,84
+offsets:1,1,42,86
+android 21_4
+bounds:2,185,54,111
+offsets:1,1,55,112
+rotate:90
+android 21_5
+bounds:2,455,67,197
+offsets:1,1,69,199
+rotate:90
+android 21_6
+bounds:175,2,38,47
+offsets:1,1,40,49
+rotate:90
+android 21_7
+bounds:2,359,94,151
+rotate:90
+android 21_8
+bounds:98,96,38,62
+offsets:1,1,40,64
+android 21_9
+bounds:140,198,57,120
+offsets:1,1,59,122
+dam10_goku
+bounds:121,30,64,52
+rotate:90
+dam11_goku
+bounds:278,124,49,47
+rotate:90
+dam12_goku
+bounds:175,42,49,57
+dam13_goku
+bounds:138,96,33,62
+dam14_goku
+bounds:44,20,74,39
+rotate:90
+dam1_goku
+bounds:224,4,36,27
+rotate:90
+dam2_goku
+bounds:288,39,33,31
+offsets:2,2,37,35
+dam3_goku
+bounds:253,3,39,33
+rotate:90
+dam4_goku
+bounds:155,416,44,37
+dam5_goku
+bounds:85,20,74,34
+rotate:90
+dam6_goku
+bounds:115,160,80,36
+dam8_goku
+bounds:278,72,45,50
+dam9_goku
+bounds:227,122,42,51

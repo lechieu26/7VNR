@@ -1,0 +1,14 @@
+Chest_Animation.png
+size:384,300
+filter:Linear,Linear
+pma:true
+1
+bounds:299,34,107,83
+offsets:2,2,111,87
+rotate:90
+2
+bounds:299,143,154,62
+offsets:5,4,164,70
+rotate:90
+Lair
+bounds:2,2,295,295

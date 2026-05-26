@@ -1,0 +1,43 @@
+Ki_Piccolo_Lv4_Truoc.png
+size:1988,664
+filter:Linear,Linear
+pma:true
+gongbase1
+bounds:493,160,493,502
+offsets:4,3,500,507
+gongbase2
+bounds:2,114,489,548
+offsets:3,3,495,554
+gongbase3
+bounds:988,227,435,513
+offsets:3,3,441,520
+rotate:90
+gongbase4
+bounds:1503,244,418,481
+offsets:3,3,424,488
+rotate:90
+skill3_goku_v1_d1
+bounds:690,75,142,83
+offsets:3,3,149,89
+skill3_goku_v1_d2
+bounds:1208,106,210,119
+offsets:3,3,217,126
+skill3_goku_v1_d3
+bounds:493,41,195,117
+offsets:3,4,201,124
+skill3_goku_v1_d4
+bounds:2,8,165,104
+offsets:4,4,173,112
+skill3_goku_v1_d5
+bounds:1208,19,152,85
+offsets:3,4,159,93
+skill5_cell_e1 copy
+bounds:988,2,223,218
+offsets:12,15,254,242
+rotate:90
+skill5_cell_e2 copy
+bounds:1748,18,231,224
+offsets:7,17,262,244
+skill5_cell_e3 copy
+bounds:1503,12,243,230
+offsets:7,6,256,241

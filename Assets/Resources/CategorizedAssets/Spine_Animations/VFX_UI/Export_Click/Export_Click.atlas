@@ -1,0 +1,14 @@
+Export_Click.png
+size:1196,508
+filter:Linear,Linear
+pma:true
+1
+bounds:477,128,375,375
+2
+bounds:854,163,340,340
+click
+bounds:2,30,473,473
+hand2
+bounds:854,2,159,209
+offsets:1,2,162,213
+rotate:90

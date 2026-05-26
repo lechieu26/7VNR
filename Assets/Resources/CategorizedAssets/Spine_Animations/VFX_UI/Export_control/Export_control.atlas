@@ -1,0 +1,17 @@
+Export_control.png
+size:760,860
+filter:Linear,Linear
+pma:true
+1
+bounds:2,21,375,375
+2
+bounds:379,2,340,340
+Hand
+bounds:476,583,274,276
+offsets:0,0,361,354
+rotate:90
+arow
+bounds:476,344,237,280
+rotate:90
+click
+bounds:2,398,472,459

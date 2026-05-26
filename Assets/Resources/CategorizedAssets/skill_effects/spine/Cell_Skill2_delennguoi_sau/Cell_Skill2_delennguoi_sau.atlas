@@ -1,0 +1,16 @@
+Cell_Skill2_delennguoi_sau.png
+size:2032,556
+filter:Linear,Linear
+pma:true
+skill2_gong_a1
+bounds:586,5,527,549
+offsets:2,0,529,551
+skill2_gong_a2
+bounds:2,31,523,582
+rotate:90
+skill2_gong_a4
+bounds:1115,2,468,552
+offsets:0,0,468,554
+skill2_gong_a5
+bounds:1585,33,442,521
+offsets:0,0,444,521

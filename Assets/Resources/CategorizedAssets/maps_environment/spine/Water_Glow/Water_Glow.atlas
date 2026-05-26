@@ -1,0 +1,13 @@
+Water_Glow.png
+size:492,20
+filter:Linear,Linear
+pma:true
+Wt_Glow1
+bounds:368,2,119,14
+offsets:1,1,121,16
+Wt_Glow2
+bounds:2,5,160,11
+offsets:1,1,162,13
+Wt_Glow3
+bounds:164,3,202,13
+offsets:1,2,204,16

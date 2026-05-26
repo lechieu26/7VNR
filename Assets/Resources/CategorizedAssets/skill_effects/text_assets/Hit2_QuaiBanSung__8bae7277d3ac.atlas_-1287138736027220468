@@ -1,0 +1,39 @@
+Hit2_QuaiBanSung.png
+size:1124,752
+filter:Linear,Linear
+pma:true
+images_Red/Skill 1_k1
+bounds:762,548,200,304
+offsets:8,13,223,333
+rotate:90
+images_Red/Skill 1_k2
+bounds:380,7,251,361
+offsets:20,13,291,389
+rotate:90
+images_Red/Skill 1_k3
+bounds:759,2,264,361
+offsets:14,13,292,389
+rotate:90
+images_Red/Skill 1_k4
+bounds:381,260,269,376
+offsets:8,12,285,403
+rotate:90
+images_Red/Skill 1_k5
+bounds:2,54,259,376
+offsets:4,12,267,403
+rotate:90
+images_Red/Skill 1_k6
+bounds:383,531,217,377
+offsets:7,6,231,394
+rotate:90
+images_Red/Skill 1_k7
+bounds:2,315,217,377
+offsets:7,6,231,394
+rotate:90
+images_Red/Skill 1_k8
+bounds:2,534,214,379
+offsets:8,6,230,396
+rotate:90
+images_Red/kame_c
+bounds:762,268,278,278
+offsets:4,4,286,286

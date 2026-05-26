@@ -1,0 +1,28 @@
+Ki_Piccolo_Lv3_Sau.png
+size:1124,908
+filter:Linear,Linear
+pma:true
+gongbase1
+bounds:446,441,448,462
+offsets:3,3,455,468
+gongbase2
+bounds:2,405,442,498
+offsets:5,4,453,507
+gongbase3
+bounds:2,10,393,470
+offsets:5,4,403,476
+rotate:90
+gongbase4
+bounds:474,2,378,437
+offsets:4,2,385,444
+skill5_cell_e1 copy
+bounds:896,442,228,219
+offsets:10,14,257,242
+rotate:90
+skill5_cell_e2 copy
+bounds:896,672,231,225
+offsets:7,17,262,245
+rotate:90
+skill5_cell_e3 copy
+bounds:854,209,243,230
+offsets:7,6,256,241

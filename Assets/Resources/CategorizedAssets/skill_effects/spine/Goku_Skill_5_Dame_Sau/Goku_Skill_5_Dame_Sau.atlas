@@ -1,0 +1,17 @@
+Goku_Skill_5_Dame_Sau.png
+size:792,824
+filter:Linear,Linear
+pma:true
+skill_goku_gong_a1
+bounds:2,12,402,410
+offsets:6,5,412,418
+skill_goku_gong_a2
+bounds:2,424,398,447
+offsets:5,4,409,456
+rotate:90
+skill_goku_gong_a3
+bounds:406,2,356,420
+offsets:5,4,367,431
+skill_goku_gong_a4
+bounds:451,428,339,394
+offsets:4,5,350,404

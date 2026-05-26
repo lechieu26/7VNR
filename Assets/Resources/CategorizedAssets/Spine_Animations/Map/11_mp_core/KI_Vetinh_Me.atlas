@@ -1,0 +1,44 @@
+KI_Vetinh_Me.png
+size:404,1052
+filter:Linear,Linear
+pma:true
+EXP 1
+bounds:208,18,67,69
+offsets:2,2,71,73
+EXP 2
+bounds:277,21,63,66
+offsets:2,2,67,70
+EXP 3
+bounds:219,689,171,172
+offsets:2,2,175,176
+rotate:90
+Exp_a2
+bounds:2,408,214,214
+offsets:4,4,222,222
+exf_f1
+bounds:218,279,146,132
+offsets:2,2,150,140
+exf_f2
+bounds:213,89,188,188
+offsets:7,2,202,197
+exf_f3
+bounds:2,2,204,198
+offsets:2,7,213,207
+exf_f4
+bounds:2,835,215,214
+offsets:2,2,222,218
+exf_f5
+bounds:2,624,215,209
+offsets:3,9,225,225
+exf_f6
+bounds:2,202,209,204
+offsets:13,18,229,229
+exf_f7
+bounds:219,862,187,182
+offsets:13,18,213,213
+rotate:90
+exf_f8
+bounds:218,413,158,157
+offsets:10,11,186,181
+tau_3c
+bounds:219,572,172,115

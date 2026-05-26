@@ -1,0 +1,14 @@
+Click_2lan_MucTieu.png
+size:328,100
+filter:Linear,Linear
+pma:true
+Click1
+bounds:196,3,92,63
+rotate:90
+Click2
+bounds:261,3,92,63
+rotate:90
+Light3
+bounds:2,2,93,192
+offsets:1,25,94,222
+rotate:90

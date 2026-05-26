@@ -1,0 +1,14 @@
+Chim.png
+size:60,40
+filter:Linear,Linear
+pma:true
+C1
+bounds:2,20,36,18
+offsets:10,9,62,34
+C2
+bounds:2,2,36,16
+offsets:0,0,36,17
+C3
+bounds:40,3,35,15
+offsets:11,4,62,34
+rotate:90

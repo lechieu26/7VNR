@@ -1,0 +1,25 @@
+Cell_Skill_4_Duoi.png
+size:644,380
+filter:Linear,Linear
+pma:true
+GF1
+bounds:231,6,194,173
+offsets:5,4,203,181
+GF2
+bounds:427,2,214,175
+offsets:5,4,223,183
+GF3
+bounds:216,181,213,195
+offsets:5,4,222,203
+GF4
+bounds:2,168,212,208
+offsets:5,6,221,218
+GF5
+bounds:431,179,209,197
+offsets:5,5,218,207
+duoi ki
+bounds:2,71,194,95
+offsets:1,1,196,96
+skill_4a2
+bounds:2,7,62,227
+rotate:90

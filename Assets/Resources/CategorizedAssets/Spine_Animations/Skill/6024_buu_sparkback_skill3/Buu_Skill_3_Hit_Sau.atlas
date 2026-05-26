@@ -1,0 +1,11 @@
+Buu_Skill_3_Hit_Sau.png
+size:432,252
+filter:Linear,Linear
+pma:true
+damvg3
+bounds:2,2,248,248
+offsets:2,2,252,252
+skill_3_bu_e1
+bounds:252,39,211,177
+offsets:4,4,220,185
+rotate:90

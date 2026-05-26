@@ -1,0 +1,54 @@
+Hit4_QuaiDamBoc_Green.png
+size:1900,672
+filter:Linear,Linear
+pma:true
+Skill 1_i1
+bounds:1550,341,136,170
+offsets:133,89,402,338
+rotate:90
+Skill 1_i10
+bounds:282,12,344,268
+offsets:47,53,461,378
+Skill 1_i11
+bounds:989,6,320,259
+offsets:50,53,411,372
+rotate:90
+Skill 1_i12
+bounds:1722,223,254,176
+offsets:53,109,442,338
+rotate:90
+Skill 1_i13
+bounds:1578,35,225,186
+offsets:88,91,370,344
+Skill 1_i2
+bounds:1578,479,191,290
+offsets:106,45,423,415
+rotate:90
+Skill 1_i3
+bounds:1252,333,296,337
+offsets:38,46,380,424
+Skill 1_i4
+bounds:1250,12,326,314
+offsets:42,38,417,396
+Skill 1_i5
+bounds:929,328,342,321
+offsets:43,33,435,404
+rotate:90
+Skill 1_i6
+bounds:2,282,388,342
+offsets:36,33,476,430
+rotate:90
+Skill 1_i7
+bounds:634,292,378,293
+offsets:41,35,466,381
+rotate:90
+Skill 1_i8
+bounds:346,289,381,286
+offsets:44,38,476,375
+rotate:90
+Skill 1_i9
+bounds:628,5,359,282
+offsets:47,45,476,384
+kame_c
+bounds:2,2,278,278
+offsets:4,4,286,286

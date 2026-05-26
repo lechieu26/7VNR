@@ -1,0 +1,46 @@
+Ki_Lv4_Truoc.png
+size:1360,1216
+filter:Linear,Linear
+pma:true
+gongbase1
+bounds:566,632,569,581
+offsets:6,7,581,598
+gongbase2
+bounds:2,592,562,621
+offsets:6,5,574,633
+gongbase3
+bounds:2,2,504,588
+offsets:6,5,516,602
+gongbase4
+bounds:508,39,486,551
+offsets:5,8,496,566
+skill3_goku_v1_d1
+bounds:1228,457,174,119
+offsets:8,6,190,133
+rotate:90
+skill3_goku_v1_d2
+bounds:1137,752,236,150
+offsets:9,8,256,166
+rotate:90
+skill3_goku_v1_d3
+bounds:996,3,218,149
+offsets:9,9,239,166
+skill3_goku_v1_d4
+bounds:1222,191,194,134
+offsets:9,7,212,150
+rotate:90
+skill3_goku_v1_d5
+bounds:1137,633,175,117
+offsets:9,9,196,135
+skill5_cell_e1 copy
+bounds:1137,990,223,218
+offsets:12,15,254,242
+rotate:90
+skill5_cell_e2 copy
+bounds:996,154,231,224
+offsets:7,17,262,244
+rotate:90
+skill5_cell_e3 copy
+bounds:996,387,243,230
+offsets:7,6,256,241
+rotate:90

@@ -1,0 +1,10 @@
+Wave.png
+size:924,280
+filter:Linear,Linear
+pma:true
+images/Wave
+bounds:2,127,895,148
+offsets:17,0,912,148
+images/Wave2
+bounds:2,2,918,123
+offsets:1,1,920,124

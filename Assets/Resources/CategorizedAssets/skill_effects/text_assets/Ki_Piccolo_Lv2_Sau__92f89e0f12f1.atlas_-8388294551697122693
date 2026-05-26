@@ -1,0 +1,16 @@
+Ki_Piccolo_Lv2_Sau.png
+size:860,984
+filter:Linear,Linear
+pma:true
+gongbase1
+bounds:2,2,456,468
+offsets:8,5,470,476
+gongbase2
+bounds:2,472,451,510
+offsets:7,5,465,523
+gongbase3
+bounds:455,504,402,478
+offsets:6,5,416,490
+gongbase4
+bounds:460,56,387,446
+offsets:5,6,400,460

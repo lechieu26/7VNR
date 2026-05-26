@@ -1,0 +1,57 @@
+Piccolo_Hit_Skill_1.png
+size:520,1928
+filter:Linear,Linear
+pma:true
+CH_Skill_1_1
+bounds:459,1453,59,59
+offsets:3,3,64,64
+CH_Skill_1_2
+bounds:280,584,226,228
+offsets:3,4,232,235
+rotate:90
+CH_Skill_1_3
+bounds:278,343,240,239
+offsets:3,3,246,245
+CH_Skill_1_4
+bounds:274,98,243,243
+offsets:3,3,249,249
+CH_Skill_1_5
+bounds:299,1112,215,226
+offsets:3,4,222,233
+CH_Skill_1_6
+bounds:324,1514,181,178
+offsets:4,4,189,186
+Skill 1_c1
+bounds:324,1694,230,194
+offsets:8,6,245,207
+rotate:90
+Skill 1_c2
+bounds:2,524,274,272
+offsets:7,7,287,285
+Skill 1_c3
+bounds:2,798,276,271
+offsets:6,6,288,285
+Skill 1_c4
+bounds:2,264,270,258
+offsets:8,6,283,271
+Skill_5_c1
+bounds:311,1374,138,146
+offsets:4,3,147,153
+rotate:90
+Skill_5_c2
+bounds:280,812,257,230
+offsets:4,4,264,237
+rotate:90
+Skill_5_c3
+bounds:2,1071,295,267
+offsets:5,5,307,278
+Skill_5_c4
+bounds:2,1644,320,280
+offsets:4,7,330,291
+Skill_5_c5
+bounds:2,1340,302,307
+offsets:6,4,312,315
+rotate:90
+damvg2
+bounds:2,2,260,260
+offsets:13,13,286,286

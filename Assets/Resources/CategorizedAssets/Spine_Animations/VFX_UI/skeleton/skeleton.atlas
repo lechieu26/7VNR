@@ -1,0 +1,10 @@
+skeleton.png
+size:121,77
+filter:Linear,Linear
+pma:true
+Chấm radar - Đồ thường
+bounds:77,33,42,42
+offsets:1,1,44,44
+Chấm radar - Đồ xịn
+bounds:2,2,73,73
+offsets:1,1,75,75

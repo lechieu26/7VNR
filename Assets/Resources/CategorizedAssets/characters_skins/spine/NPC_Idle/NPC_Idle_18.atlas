@@ -1,0 +1,14 @@
+NPC_Idle.png
+size:220,380
+filter:Linear,Linear
+pma:true
+ChanP16
+bounds:130,8,84,179
+ChanT16
+bounds:130,189,88,187
+TayP16
+bounds:66,3,55,148
+TayT16
+bounds:2,2,62,149
+Than16
+bounds:2,153,126,223

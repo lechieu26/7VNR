@@ -1,0 +1,12 @@
+Vanbay_3_export_sau.png
+size:360,248
+filter:Linear,Linear
+pma:true
+tau_3a
+bounds:155,2,166,93
+tau_3b
+bounds:2,9,234,151
+rotate:90
+tau_3c
+bounds:155,97,203,146
+offsets:25,7,228,153

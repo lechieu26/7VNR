@@ -1,0 +1,17 @@
+Goku_Skill2_delennguoi_sau.png
+size:740,832
+filter:Linear,Linear
+pma:true
+skill_goku_gong_a1
+bounds:2,2,391,405
+offsets:2,2,393,409
+rotate:90
+skill_goku_gong_a2
+bounds:2,395,388,432
+offsets:0,0,389,432
+skill_goku_gong_a3
+bounds:392,417,346,410
+offsets:0,0,348,412
+skill_goku_gong_a4
+bounds:409,30,328,385
+offsets:0,2,330,387

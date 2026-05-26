@@ -1,0 +1,10 @@
+SongBoBien.png
+size:1032,48
+filter:Linear,Linear
+pma:true
+Wave1
+bounds:516,2,512,42
+offsets:0,1,512,44
+Wave1.2
+bounds:2,2,512,42
+offsets:0,1,512,44

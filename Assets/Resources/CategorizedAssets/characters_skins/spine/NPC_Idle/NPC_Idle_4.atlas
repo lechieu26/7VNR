@@ -1,0 +1,16 @@
+NPC_Idle.png
+size:392,220
+filter:Linear,Linear
+pma:true
+TayP15
+bounds:2,165,52,126
+rotate:90
+TayT15
+bounds:130,160,57,140
+rotate:90
+Than15
+bounds:2,2,153,385
+rotate:90
+Toc15
+bounds:272,157,60,69
+rotate:90

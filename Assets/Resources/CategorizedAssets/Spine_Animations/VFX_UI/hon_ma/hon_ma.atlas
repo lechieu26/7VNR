@@ -1,0 +1,17 @@
+hon_ma.png
+size:272,140
+filter:Linear,Linear
+pma:true
+ma_1
+bounds:211,65,70,58
+rotate:90
+ma_2
+bounds:2,2,133,149
+rotate:90
+ma_3
+bounds:211,4,59,57
+rotate:90
+vong
+bounds:153,5,130,56
+offsets:3,3,136,62
+rotate:90

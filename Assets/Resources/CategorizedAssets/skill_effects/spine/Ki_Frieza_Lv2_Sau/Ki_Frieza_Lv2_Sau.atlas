@@ -1,0 +1,17 @@
+Ki_Frieza_Lv2_Sau.png
+size:916,1036
+filter:Linear,Linear
+pma:true
+gongbase1
+bounds:2,2,486,499
+offsets:8,6,500,507
+rotate:90
+gongbase2
+bounds:2,490,480,542
+offsets:7,5,495,554
+gongbase3
+bounds:484,524,428,508
+offsets:6,5,441,520
+gongbase4
+bounds:503,47,411,475
+offsets:5,5,424,488

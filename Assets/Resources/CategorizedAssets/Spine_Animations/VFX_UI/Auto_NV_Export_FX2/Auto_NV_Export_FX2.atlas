@@ -1,0 +1,12 @@
+Auto_NV_Export_FX2.png
+size:396,460
+filter:Linear,Linear
+pma:true
+khung1
+bounds:2,2,453,200
+offsets:2,2,457,204
+rotate:90
+khung2
+bounds:204,12,443,190
+offsets:2,2,447,194
+rotate:90

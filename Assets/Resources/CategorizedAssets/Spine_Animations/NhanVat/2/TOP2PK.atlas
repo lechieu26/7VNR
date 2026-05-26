@@ -1,0 +1,18 @@
+TOP2PK.png
+size:432,524
+filter:Linear,Linear
+pma:true
+Lair
+bounds:2,2,271,270
+offsets:11,14,295,295
+rotate:90
+a4
+bounds:274,139,95,95
+offsets:7,10,111,111
+hunter 1
+bounds:349,236,283,78
+offsets:3,6,288,87
+rotate:90
+lght11
+bounds:2,275,345,244
+offsets:5,7,355,257

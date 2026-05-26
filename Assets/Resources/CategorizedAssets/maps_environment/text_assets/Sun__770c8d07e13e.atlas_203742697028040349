@@ -1,0 +1,9 @@
+Sun.png
+size:1304,748
+filter:Linear,Linear
+pma:true
+Sun
+bounds:2,2,742,1000
+rotate:90
+SunLight
+bounds:1004,196,296,548
