@@ -74,9 +74,61 @@
     {
       "mapPrefab": "Map/Map_5",
       "leftMapPrefab": "Map/Map_4",
+      "rightMapPrefab": "Map/Map_6",
       "playerSpawnPos": { "x": 0, "y": 0, "z": 0 },
       "enemies": [
         
+      ]
+    },
+    {
+      "mapPrefab": "Map/Map_6",
+      "leftMapPrefab": "Map/Map_5",
+      "rightMapPrefab": "Map/Map_7",
+      "playerSpawnPos": { "x": 0, "y": 0, "z": 0 },
+      "enemies": [
+        { "enemyName": "MayDam", "spawnPosition": { "x": -30, "y": 2 } },
+        { "enemyName": "MayDam", "spawnPosition": { "x": -18, "y": 2 } },
+        { "enemyName": "KhiCon", "spawnPosition": { "x": -10, "y": 4 } },
+        { "enemyName": "KhiCon", "spawnPosition": { "x": 5, "y": 4 } },
+        { "enemyName": "Ran", "spawnPosition": { "x": -15, "y": 9 } },
+        { "enemyName": "Ran", "spawnPosition": { "x": 10, "y": 13 } },
+        { "enemyName": "Gigan", "spawnPosition": { "x": 20, "y": 2 } },
+        { "enemyName": "Gigan", "spawnPosition": { "x": 35, "y": 2 } },
+        { "enemyName": "KhungLongBay", "spawnPosition": { "x": 25, "y": 8 } }
+      ]
+    },
+    {
+      "mapPrefab": "Map/Map_7",
+      "leftMapPrefab": "Map/Map_6",
+      "rightMapPrefab": "Map/Map_8",
+      "playerSpawnPos": { "x": 0, "y": 0, "z": 0 },
+      "enemies": [
+        { "enemyName": "OcSen", "spawnPosition": { "x": -25, "y": 2 } },
+        { "enemyName": "OcSen", "spawnPosition": { "x": -15, "y": 2 } },
+        { "enemyName": "OcSen", "spawnPosition": { "x": -5, "y": 3 } },
+        { "enemyName": "ThanLanBay", "spawnPosition": { "x": 10, "y": 2 } },
+        { "enemyName": "ThanLanBay", "spawnPosition": { "x": 20, "y": 2 } },
+        { "enemyName": "Ran", "spawnPosition": { "x": -20, "y": 7 } },
+        { "enemyName": "KhungLongBay", "spawnPosition": { "x": 5, "y": 11 } },
+        { "enemyName": "KhiCon", "spawnPosition": { "x": 30, "y": 2 } }
+      ]
+    },
+    {
+      "mapPrefab": "Map/Map_8",
+      "leftMapPrefab": "Map/Map_7",
+      "playerSpawnPos": { "x": 0, "y": 0, "z": 0 },
+      "enemies": [
+        { "enemyName": "Gigan", "spawnPosition": { "x": -35, "y": 2 } },
+        { "enemyName": "Gigan", "spawnPosition": { "x": -20, "y": 5 } },
+        { "enemyName": "MayDam", "spawnPosition": { "x": -10, "y": 5 } },
+        { "enemyName": "MayDam", "spawnPosition": { "x": 0, "y": 2 } },
+        { "enemyName": "KhiCon", "spawnPosition": { "x": 10, "y": 2 } },
+        { "enemyName": "KhiCon", "spawnPosition": { "x": 20, "y": 2 } },
+        { "enemyName": "Ran", "spawnPosition": { "x": -25, "y": 9 } },
+        { "enemyName": "Ran", "spawnPosition": { "x": 0, "y": 13 } },
+        { "enemyName": "KhungLongBay", "spawnPosition": { "x": 15, "y": 9 } },
+        { "enemyName": "ThanLanBay", "spawnPosition": { "x": 30, "y": 16 } },
+        { "enemyName": "OcSen", "spawnPosition": { "x": 40, "y": 2 } }
       ]
     }
 
